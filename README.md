@@ -23,7 +23,8 @@ Steele & Iliinsky. Beautiful Visualization, any chapters
 * Столбиковая диаграмма (bar chart)  
 * Линейная диаграмма (временной ряд)  
 * Круговая диаграмма, или диаграмма-пирог (pie chart)  
-* Радиальная диаграмма  
+* Радиальная диаграмма
+  
 Примеры разных типов диаграмм в научных статьях. Как (не) нужно строить графики: правила и частые ошибки. Очень плохие графики.  
   
 [Презентация](https://github.com/alexeyknorre/datavis2016/blob/master/presentations/datavis-2.pdf)
@@ -58,7 +59,7 @@ Adam Perer. Finding Beautiful Insights in the Chaos of Social Network Visualizat
   
 ## Неделя 5. Инструменты для визуализации данных  
 Место визуализации в исследовательском цикле. Роль популярных визуализаций в продвижении научных продуктов. Инструменты для визуализации данных: Excel, статистические пакеты (SPSS, Stata, R), онлайн-инструменты, профессиональные графические пакеты (Adobe Illustrator).
-Интерактивные визуализации: data-driven documents (D3). Публикация данных, кода и картинок.
+Интерактивные визуализации: data-driven documents (D3), Shiny. Публикация данных, кода и картинок.
 Воспроизводимость научных исследований. Разделение кода и данных. Коллаборативная работа и системы контроля версий. Открытость результатов и промежуточных продуктов исследования.
 Введение в R.
   
@@ -66,7 +67,7 @@ Adam Perer. Finding Beautiful Insights in the Chaos of Social Network Visualizat
   
 **Литература к занятию**  
 Healy Kieran. Data Visualization in Sociology. Annual Review of Sociology, 40:105–128  
-Healy Kieran. [The Plain Person’s Guide to Plain Text Social Science](https://kieranhealy.org/files/papers/plain-person-text.pdf)
+Healy Kieran. [The Plain Person’s Guide to Plain Text Social Science](https://kieranhealy.org/files/papers/plain-person-text.pdf)  
 [Reproducibility guide](http://ropensci.github.io/reproducibility-guide/)  
 Bostock et al. [Data Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)  
   
